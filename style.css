@@ -1,0 +1,79 @@
+/* div{
+    div {
+        background-color: lightblue;
+        padding: 10px;
+        border: 1px solid #ccc;
+      }
+      
+} */
+/* 
+div {
+    background-color: aquamarine;
+    color: antiquewhite;
+    border: 2px solid;
+    font-style: Arial;
+}
+
+
+div {
+    background-color:cadetblue;
+    color: antiquewhite;
+    border: 2px solid;
+    font-style: Arial;
+}
+
+
+div {
+    background-color:darkseagreen;
+    color: antiquewhite;
+    border: 2px solid;
+    font-style: Arial;
+} */
+
+
+body {
+    background-color:beige;
+    text-align: center;
+    margin-top: 155px;
+    background-image: url(https://www.designbolts.com/wp-content/uploads/2017/09/Halloween-Scary-House-Wallpaper-1.jpg);
+}
+
+div {
+    height: 95px;
+    width: 375px;
+    background-color:darkseagreen;
+    color: rgb(177, 26, 26);
+
+    
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    /* border: darkolivegreen;
+    border-style:dashed;
+    border: 25px; */
+    border: 23px groove darkslategray;
+    font-size: 35px;
+    /* border-image: url(https://wallpaperaccess.com/full/2826203.jpg); */
+    
+    display: flex;
+    margin: 25px;
+    padding: 95px 90px 75px 90px;
+    text-align: center;
+
+    display:inline-block;
+    background-image: url(https://images.genius.com/31fe4d3ce8cc60ebf7121f4fcd55d581.736x919x1.jpg);
+}
+
+#datetime {
+
+    /* border: 15px dashed rgb(107, 84, 47); */
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 255px;
+    color: rgb(90, 17, 17);
+
+}
+
+
+
